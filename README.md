@@ -12,9 +12,8 @@ Briefly explain what the project does:
 ✔️ Simple and fast UI  
 
 ### 4️⃣ **Tech Stack**  
-- Frontend: **React.js / HTML, CSS, JavaScript**  
-- Backend: **Node.js / Express.js (if applicable)**  
-- QR Code Library: **qrcode.react / qrcode-generator**  
+- Frontend: **HTML, CSS, JavaScript**    
+- QR Code Library: **qrcode-generator API**  
 
 ### 6️⃣ **Usage**  
 1️⃣ Enter the text/URL in the input field.  
@@ -28,4 +27,5 @@ Contributions are welcome! Fork the repo and submit a pull request.
 This project is licensed under the MIT License.  
 
 ### 🔗 **Live Demo (if hosted)**  
-[)  
+link: https://rohitsingh0318.github.io/QR_Code_Generation/ 
+
