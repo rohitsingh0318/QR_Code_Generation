@@ -27,5 +27,6 @@ Contributions are welcome! Fork the repo and submit a pull request.
 This project is licensed under the MIT License.  
 
 ### 🔗 **Live Demo (if hosted)**  
+👉👉👉👉👉👉👉👉👉👉👉
 link: https://rohitsingh0318.github.io/QR_Code_Generation/ 
 
